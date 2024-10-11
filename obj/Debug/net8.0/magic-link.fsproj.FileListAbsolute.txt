@@ -45,3 +45,7 @@
 /Users/amirpanahi/Documents/work/magic-link/obj/Debug/net8.0/magic-link.pdb
 /Users/amirpanahi/Documents/work/magic-link/obj/Debug/net8.0/magic-link.genruntimeconfig.cache
 /Users/amirpanahi/Documents/work/magic-link/obj/Debug/net8.0/ref/magic-link.dll
+/Users/amirpanahi/Documents/work/magic-link/obj/Debug/net8.0/magic-link.sourcelink.json
+/Users/amirpanahi/Documents/work/magic-link/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/amirpanahi/Documents/work/magic-link/bin/Debug/net8.0/MailKit.dll
+/Users/amirpanahi/Documents/work/magic-link/bin/Debug/net8.0/MimeKit.dll

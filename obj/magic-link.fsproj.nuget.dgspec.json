@@ -54,6 +54,11 @@
               "target": "Package",
               "version": "[1.4.*, )",
               "generatePathProperty": true
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )",
+              "generatePathProperty": true
             }
           },
           "imports": [
